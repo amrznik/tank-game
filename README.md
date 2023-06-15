@@ -1,1 +1,2 @@
 # tank-game
+A Java implementation of a simple game called battle of tanks, for one player vs. computer, or two players. The game is similar to the [Battleship game](https://en.wikipedia.org/wiki/Battleship_(game)).
